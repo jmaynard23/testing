@@ -3,8 +3,8 @@
     "date": "05-11-1995",
     "area": "N- FRONT MEAT",
     "scheduled": "12:00 a.m.",
-    "checked_time": "12:02 a.m.".
-    "temperature: "27.5 F",
+    "checked_time": "12:02 a.m.",
+    "temperature: "27.5",
     "tolerance": "26-39",
     "checked_by": "Joe Brown",
     "scanned": "YES"
@@ -14,8 +14,8 @@
     "date": "05-11-1995",
     "area": "N- FRONT MEAT",
     "scheduled": "12:00 a.m.",
-    "checked_time": "12:02 a.m.".
-    "temperature: "27.5 F",
+    "checked_time": "12:02 a.m.",
+    "temperature: "27.5",
     "tolerance": "26-39",
     "checked_by": "Joe Brown",
     "scanned": "YES"
@@ -25,8 +25,8 @@
     "date": "05-11-1995",
     "area": "N- FRONT MEAT",
     "scheduled": "12:00 a.m.",
-    "checked_time": "12:02 a.m.".
-    "temperature: "27.5 F",
+    "checked_time": "12:02 a.m.",
+    "temperature: "27.5",
     "tolerance": "26-39",
     "checked_by": "Joe Brown",
     "scanned": "YES"
@@ -36,8 +36,8 @@
     "date": "05-11-1995",
     "area": "N- FRONT MEAT",
     "scheduled": "12:00 a.m.",
-    "checked_time": "12:02 a.m.".
-    "temperature: "27.5 F",
+    "checked_time": "12:02 a.m.",
+    "temperature: "27.5",
     "tolerance": "26-39",
     "checked_by": "Joe Brown",
     "scanned": "YES"
@@ -47,8 +47,8 @@
     "date": "05-11-1995",
     "area": "N- FRONT MEAT",
     "scheduled": "12:00 a.m.",
-    "checked_time": "12:02 a.m.".
-    "temperature: "27.5 F",
+    "checked_time": "12:02 a.m.",
+    "temperature: "27.5",
     "tolerance": "26-39",
     "checked_by": "Joe Brown",
     "scanned": "YES"
@@ -58,8 +58,8 @@
     "date": "05-11-1995",
     "area": "N- FRONT MEAT",
     "scheduled": "12:00 a.m.",
-    "checked_time": "12:02 a.m.".
-    "temperature: "27.5 F",
+    "checked_time": "12:02 a.m.",
+    "temperature: "27.5",
     "tolerance": "26-39",
     "checked_by": "Joe Brown",
     "scanned": "YES"
